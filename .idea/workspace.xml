@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="82205c8b-85be-46b2-88f8-7aeea9b556b9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XJQEP7bcn7dhw2eCelwnP1is82" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/java/BrowserDrivers" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Me\IdeaProjects\NopCom\AutoRegistration Project\src\test\java\BrowserDrivers" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.AutoRegistrationFormFill.HomeStoreAutoRegistrationTest">
+    <configuration name="AutoRegistrationFormFill" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AutoRegistration Project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ABCLtd.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ABCLtd" />
+      <option name="MAIN_CLASS_NAME" value="ABCLtd.AutoRegistrationFormFill" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AutoRegistrationFormFill.GroceryAutoRegistrationTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AutoRegistration Project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ABCLtd.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ABCLtd" />
+      <option name="MAIN_CLASS_NAME" value="ABCLtd.AutoRegistrationFormFill" />
+      <option name="METHOD_NAME" value="GroceryAutoRegistrationTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AutoRegistrationFormFill.HomeStoreAutoRegistrationTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AutoRegistration Project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ABCLtd.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ABCLtd" />
+      <option name="MAIN_CLASS_NAME" value="ABCLtd.AutoRegistrationFormFill" />
+      <option name="METHOD_NAME" value="HomeStoreAutoRegistrationTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AutoRegistrationFormFill.ShoppingAutoRegistrationTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AutoRegistration Project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ABCLtd.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ABCLtd" />
+      <option name="MAIN_CLASS_NAME" value="ABCLtd.AutoRegistrationFormFill" />
+      <option name="METHOD_NAME" value="ShoppingAutoRegistrationTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AutoRegistrationFormFill.ShoppingMallAutoRegistrationTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AutoRegistration Project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ABCLtd.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ABCLtd" />
+      <option name="MAIN_CLASS_NAME" value="ABCLtd.AutoRegistrationFormFill" />
+      <option name="METHOD_NAME" value="ShoppingMallAutoRegistrationTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.AutoRegistrationFormFill.HomeStoreAutoRegistrationTest" />
+        <item itemvalue="JUnit.AutoRegistrationFormFill.ShoppingMallAutoRegistrationTest" />
+        <item itemvalue="JUnit.AutoRegistrationFormFill.ShoppingAutoRegistrationTest" />
+        <item itemvalue="JUnit.AutoRegistrationFormFill.GroceryAutoRegistrationTest" />
+        <item itemvalue="JUnit.AutoRegistrationFormFill" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="82205c8b-85be-46b2-88f8-7aeea9b556b9" name="Default Changelist" comment="" />
+      <created>1580761605834</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580761605834</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1323" height="226" key="GridCell.Tab.0.bottom" timestamp="1580869242612">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="226" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1580869242612" />
+    <state width="1323" height="226" key="GridCell.Tab.0.center" timestamp="1580869242612">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="226" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1580869242612" />
+    <state width="1323" height="226" key="GridCell.Tab.0.left" timestamp="1580869242611">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="226" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1580869242611" />
+    <state width="1323" height="226" key="GridCell.Tab.0.right" timestamp="1580869242612">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="226" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1580869242612" />
+    <state x="213" y="18" key="Maven.ArtifactSearchDialog" timestamp="1580769885692">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="213" y="18" key="Maven.ArtifactSearchDialog/0.0.1366.728@0.0.1366.728" timestamp="1580769885692" />
+    <state x="379" y="187" key="com.intellij.ide.util.TipDialog" timestamp="1580939227331">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="379" y="187" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1580939227331" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/AutoRegistration_Project$AutoRegistrationFormFill_GroceryAutoRegistrationTest.ic" NAME="AutoRegistrationFormFill.GroceryAutoRegistrationTest Coverage Results" MODIFIED="1580822457792" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>ABCLtd.*</FILTER>
+    </SUITE>
+  </component>
+</project>
